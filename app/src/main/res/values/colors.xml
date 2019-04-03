@@ -10,4 +10,20 @@
     <color name="global_color_green_primary_dark">#388e3c</color>
     <color name="global_color_green_accent">#ffc107</color>
     <color name="global_color_green_control_activated">#ffc107</color>
+    <color name="white">#FFFFFF</color>
+    <color name="signupColor">#066e8a</color>
+
+    <color name="colorPrimary1">#FFC107</color>
+    <color name="colorPrimaryDark1">#FFA000</color>
+    <color name="backgroundcolor1">#fcfcfc</color>
+    <color name="lightgray1">#ededed</color>
+    <color name="deeppurple1">#7c4dff</color>
+    <color name="yello1">#ffb300</color>
+    <color name="green1">#00bfa5</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="darkblue1">#23283a</color>
+    <color name="testcolorblue1">#152b38</color>
+    <color name="pink1">#fe104d</color>
+
+    <color name="black_overlay1">#66000000</color>
 </resources>

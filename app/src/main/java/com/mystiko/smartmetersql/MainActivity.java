@@ -120,7 +120,9 @@ public class MainActivity extends AppCompatActivity
                             z = "Login successful";
                             isSuccess=true;
                             finish();
-                            startActivity(new Intent(getApplicationContext(),UserHome.class));
+                            Intent i = new Intent(MainActivity.this, UserHome.class);
+                            i.putExtra("mserial", passwordd);
+                            startActivity(i);
 
                         }
                         else
